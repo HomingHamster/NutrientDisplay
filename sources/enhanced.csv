@@ -1,0 +1,728 @@
+Nutrient,Age_Group,Male,Female,Pregnant,Lactating,Unit,Source,Source_Links,Footnotes,Nutrient_Notes
+Alanine,19+ years,CS,CS,CS,CS,mg,Conditionally essential,,,Can be synthesized by the body. requirements increase during stress/illness
+Algal Oil,14–18 years,850.0,850.0,935.0,1020.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Algal Oil,19+ years,1000,1000,1000,1000,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Omega-3 source,
+Algal Oil,19–30 years,1000.0,1000.0,1100.0,1200.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Algal Oil,1–3 years,350.0,350.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Algal Oil,31–50 years,1000.0,1000.0,1100.0,1200.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Algal Oil,4–8 years,500.0,500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Algal Oil,51–70 years,900.0,900.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Algal Oil,70+ years,850.0,850.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Algal Oil,7–12 months,250.0,250.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Algal Oil,9–13 years,700.0,700.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Algal Oil,Birth to 6 months,150.0,150.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Alpha-Lipoic Acid,14–18 years,255.0,255.0,280.5,306.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Alpha-Lipoic Acid,19+ years,300,300,300,300,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Antioxidant studies,
+Alpha-Lipoic Acid,19–30 years,300.0,300.0,330.0,360.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Alpha-Lipoic Acid,1–3 years,105.0,105.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Alpha-Lipoic Acid,31–50 years,300.0,300.0,330.0,360.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Alpha-Lipoic Acid,4–8 years,150.0,150.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Alpha-Lipoic Acid,51–70 years,270.0,270.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Alpha-Lipoic Acid,70+ years,255.0,255.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Alpha-Lipoic Acid,7–12 months,75.0,75.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Alpha-Lipoic Acid,9–13 years,210.0,210.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Alpha-Lipoic Acid,Birth to 6 months,45.0,45.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Anthocyanins,14–18 years,136.0,136.0,149.6,163.2,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Anthocyanins,19+ years,160,160,160,160,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Berry consumption studies,
+Anthocyanins,19–30 years,160.0,160.0,176.0,192.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Anthocyanins,1–3 years,56.0,56.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Anthocyanins,31–50 years,160.0,160.0,176.0,192.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Anthocyanins,4–8 years,80.0,80.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Anthocyanins,51–70 years,144.0,144.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Anthocyanins,70+ years,136.0,136.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Anthocyanins,7–12 months,40.0,40.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Anthocyanins,9–13 years,112.0,112.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Anthocyanins,Birth to 6 months,24.0,24.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Arginine,19+ years,CS,CS,CS,CS,mg,Conditionally essential,,,Can be synthesized by the body. requirements increase during stress/illness
+Aspartic Acid,19+ years,CS,CS,CS,CS,mg,Conditionally essential,,,Can be synthesized by the body. requirements increase during stress/illness
+Bacillus coagulans,14–18 years,1.7×10^9,1.7×10^9,1.9×10^9,2.0×10^9,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bacillus coagulans,19+ years,2×10^9,2×10^9,2×10^9,2×10^9,CFU,Research-based,Multiple peer-reviewed studies and clinical trials,Spore-forming probiotic,
+Bacillus coagulans,19–30 years,2.0×10^9,2.0×10^9,2.2×10^9,2.4×10^9,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bacillus coagulans,1–3 years,700.0×10^6,700.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bacillus coagulans,31–50 years,2.0×10^9,2.0×10^9,2.2×10^9,2.4×10^9,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bacillus coagulans,4–8 years,1.0×10^9,1.0×10^9,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bacillus coagulans,51–70 years,1.8×10^9,1.8×10^9,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bacillus coagulans,70+ years,1.7×10^9,1.7×10^9,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bacillus coagulans,7–12 months,500.0×10^6,500.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bacillus coagulans,9–13 years,1.4×10^9,1.4×10^9,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bacillus coagulans,Birth to 6 months,300.0×10^6,300.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Beta-Carotene,14–18 years,2.5,2.5,2.8,3.1,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Carotene,19+ years,3,3,3,3,mg,Research-based,Multiple peer-reviewed studies and clinical trials,As provitamin A,
+Beta-Carotene,19–30 years,3.0,3.0,3.3,3.6,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Carotene,1–3 years,1.0,1.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Carotene,31–50 years,3.0,3.0,3.3,3.6,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Carotene,4–8 years,1.5,1.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Carotene,51–70 years,2.7,2.7,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Carotene,70+ years,2.5,2.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Carotene,7–12 months,0.8,0.8,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Carotene,9–13 years,2.1,2.1,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Carotene,Birth to 6 months,0.4,0.4,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Glucans,14–18 years,2550.0,2550.0,2805.0,3060.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Glucans,19+ years,3000,3000,3000,3000,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Immune and cholesterol studies,
+Beta-Glucans,19–30 years,3000.0,3000.0,3300.0,3600.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Glucans,1–3 years,1050.0,1050.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Glucans,31–50 years,3000.0,3000.0,3300.0,3600.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Glucans,4–8 years,1500.0,1500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Glucans,51–70 years,2700.0,2700.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Glucans,70+ years,2550.0,2550.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Glucans,7–12 months,750.0,750.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Glucans,9–13 years,2100.0,2100.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Beta-Glucans,Birth to 6 months,450.0,450.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Bifidobacterium bifidum,14–18 years,850.0×10^6,850.0×10^6,935.0×10^6,1.0×10^9,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bifidobacterium bifidum,19+ years,1×10^9,1×10^9,1×10^9,1×10^9,CFU,Research-based,Multiple peer-reviewed studies and clinical trials,Daily probiotic intake,
+Bifidobacterium bifidum,19–30 years,1.0×10^9,1.0×10^9,1.1×10^9,1.2×10^9,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bifidobacterium bifidum,1–3 years,350.0×10^6,350.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bifidobacterium bifidum,31–50 years,1.0×10^9,1.0×10^9,1.1×10^9,1.2×10^9,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bifidobacterium bifidum,4–8 years,500.0×10^6,500.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bifidobacterium bifidum,51–70 years,900.0×10^6,900.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bifidobacterium bifidum,70+ years,850.0×10^6,850.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bifidobacterium bifidum,7–12 months,250.0×10^6,250.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bifidobacterium bifidum,9–13 years,700.0×10^6,700.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Bifidobacterium bifidum,Birth to 6 months,150.0×10^6,150.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Biotin,14–18 years,25,25,30,35,mcg,ODS Biotin Factsheet,https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/,*AI,Deficiency rare except with consumption of raw eggs containing avidin
+Biotin,19+ years,30,30,30,35,mcg,ODS Biotin Factsheet,https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/,*AI,Deficiency rare except with consumption of raw eggs containing avidin
+Biotin,1–3 years,8,8,,,mcg,ODS Biotin Factsheet,https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/,*AI,Deficiency rare except with consumption of raw eggs containing avidin
+Biotin,4–8 years,12,12,,,mcg,ODS Biotin Factsheet,https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/,*AI,Deficiency rare except with consumption of raw eggs containing avidin
+Biotin,7–12 months,6,6,,,mcg,ODS Biotin Factsheet,https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/,*AI,Deficiency rare except with consumption of raw eggs containing avidin
+Biotin,9–13 years,20,20,,,mcg,ODS Biotin Factsheet,https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/,*AI,Deficiency rare except with consumption of raw eggs containing avidin
+Biotin,Birth to 6 months,5,5,,,mcg,ODS Biotin Factsheet,https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/,*AI,Deficiency rare except with consumption of raw eggs containing avidin
+Boron,19+ years,1,1,1,1,mg,Research estimate,,Safe and adequate intake,
+Calcium,0–6 months,200,200,,,mg,ODS Calcium Factsheet,https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/,*AI,Absorption requires adequate vitamin D. dairy products are primary sources
+Calcium,14–18 years,1300,1300,1300,1300,mg,ODS Calcium Factsheet,https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/,,Absorption requires adequate vitamin D. dairy products are primary sources
+Calcium,19–50 years,1000,1000,1000,1000,mg,ODS Calcium Factsheet,https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/,,Absorption requires adequate vitamin D. dairy products are primary sources
+Calcium,1–3 years,700,700,,,mg,ODS Calcium Factsheet,https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/,,Absorption requires adequate vitamin D. dairy products are primary sources
+Calcium,4–8 years,1000,1000,,,mg,ODS Calcium Factsheet,https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/,,Absorption requires adequate vitamin D. dairy products are primary sources
+Calcium,51–70 years,1000,1200,,,mg,ODS Calcium Factsheet,https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/,,Absorption requires adequate vitamin D. dairy products are primary sources
+Calcium,70+ years,1200,1200,,,mg,ODS Calcium Factsheet,https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/,,Absorption requires adequate vitamin D. dairy products are primary sources
+Calcium,7–12 months,260,260,,,mg,ODS Calcium Factsheet,https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/,*AI,Absorption requires adequate vitamin D. dairy products are primary sources
+Calcium,9–13 years,1300,1300,,,mg,ODS Calcium Factsheet,https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/,,Absorption requires adequate vitamin D. dairy products are primary sources
+Carnitine,14–18 years,1700.0,1700.0,1870.0,2040.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Carnitine,19+ years,2000,2000,2000,2000,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Energy metabolism,
+Carnitine,19–30 years,2000.0,2000.0,2200.0,2400.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Carnitine,1–3 years,700.0,700.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Carnitine,31–50 years,2000.0,2000.0,2200.0,2400.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Carnitine,4–8 years,1000.0,1000.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Carnitine,51–70 years,1800.0,1800.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Carnitine,70+ years,1700.0,1700.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Carnitine,7–12 months,500.0,500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Carnitine,9–13 years,1400.0,1400.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Carnitine,Birth to 6 months,300.0,300.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorella,14–18 years,2550.0,2550.0,2805.0,3060.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorella,19+ years,3000,3000,3000,3000,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Whole food supplement,
+Chlorella,19–30 years,3000.0,3000.0,3300.0,3600.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorella,1–3 years,1050.0,1050.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorella,31–50 years,3000.0,3000.0,3300.0,3600.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorella,4–8 years,1500.0,1500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorella,51–70 years,2700.0,2700.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorella,70+ years,2550.0,2550.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorella,7–12 months,750.0,750.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorella,9–13 years,2100.0,2100.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorella,Birth to 6 months,450.0,450.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chloride,14–18 years,2300,2300,2300,2300,mg,DRI for Chloride,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Chloride,19–50 years,2300,2300,2300,2300,mg,DRI for Chloride,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Chloride,1–3 years,1500,1500,,,mg,DRI for Chloride,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Chloride,4–8 years,1900,1900,,,mg,DRI for Chloride,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Chloride,51–70 years,2000,2000,,,mg,DRI for Chloride,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Chloride,70+ years,1800,1800,,,mg,DRI for Chloride,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Chloride,7–12 months,570,570,,,mg,DRI for Chloride,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Chloride,9–13 years,2300,2300,,,mg,DRI for Chloride,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Chloride,Birth to 6 months,180,180,,,mg,DRI for Chloride,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Chlorophyll,14–18 years,42.5,42.5,46.8,51.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorophyll,19+ years,50,50,50,50,mg,Research-based,Multiple peer-reviewed studies and clinical trials,From green vegetables,
+Chlorophyll,19–30 years,50.0,50.0,55.0,60.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorophyll,1–3 years,17.5,17.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorophyll,31–50 years,50.0,50.0,55.0,60.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorophyll,4–8 years,25.0,25.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorophyll,51–70 years,45.0,45.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorophyll,70+ years,42.5,42.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorophyll,7–12 months,12.5,12.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorophyll,9–13 years,35.0,35.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Chlorophyll,Birth to 6 months,7.5,7.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Choline,14–18 years,550,400,450,550,mg,ODS Choline Factsheet,https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/,*AI,
+Choline,19+ years,550,425,450,550,mg,ODS Choline Factsheet,https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/,*AI,
+Choline,1–3 years,200,200,,,mg,ODS Choline Factsheet,https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/,*AI,
+Choline,4–8 years,250,250,,,mg,ODS Choline Factsheet,https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/,*AI,
+Choline,7–12 months,150,150,,,mg,ODS Choline Factsheet,https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/,*AI,
+Choline,9–13 years,375,375,,,mg,ODS Choline Factsheet,https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/,*AI,
+Choline,Birth to 6 months,125,125,,,mg,ODS Choline Factsheet,https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/,*AI,
+Chromium,14–18 years,35,24,29,44,mcg,ODS Chromium Factsheet,https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/,*AI,
+Chromium,19–50 years,35,25,30,45,mcg,ODS Chromium Factsheet,https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/,*AI,
+Chromium,1–3 years,11,11,,,mcg,ODS Chromium Factsheet,https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/,*AI,
+Chromium,4–8 years,15,15,,,mcg,ODS Chromium Factsheet,https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/,*AI,
+Chromium,51+ years,30,20,,,mcg,ODS Chromium Factsheet,https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/,*AI,
+Chromium,7–12 months,5.5,5.5,,,mcg,ODS Chromium Factsheet,https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/,*AI,
+Chromium,9–13 years,25,21,,,mcg,ODS Chromium Factsheet,https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/,*AI,
+Chromium,Birth to 6 months,0.2,0.2,,,mcg,ODS Chromium Factsheet,https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/,*AI,
+Cobalt,19+ years,5,5,5,5,mcg,Research estimate,,As part of vitamin B12,
+Coenzyme Q10,14–18 years,85.0,85.0,93.5,102.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Coenzyme Q10,19+ years,100,100,100,100,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Cardiovascular health studies,
+Coenzyme Q10,19–30 years,100.0,100.0,110.0,120.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Coenzyme Q10,1–3 years,35.0,35.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Coenzyme Q10,31–50 years,100.0,100.0,110.0,120.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Coenzyme Q10,4–8 years,50.0,50.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Coenzyme Q10,51–70 years,90.0,90.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Coenzyme Q10,70+ years,85.0,85.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Coenzyme Q10,7–12 months,25.0,25.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Coenzyme Q10,9–13 years,70.0,70.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Coenzyme Q10,Birth to 6 months,15.0,15.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Collagen,14–18 years,8500.0,8500.0,9350.0,10200.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Collagen,19+ years,10000,10000,10000,10000,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Structural protein,
+Collagen,19–30 years,10000.0,10000.0,11000.0,12000.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Collagen,1–3 years,3500.0,3500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Collagen,31–50 years,10000.0,10000.0,11000.0,12000.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Collagen,4–8 years,5000.0,5000.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Collagen,51–70 years,9000.0,9000.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Collagen,70+ years,8500.0,8500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Collagen,7–12 months,2500.0,2500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Collagen,9–13 years,7000.0,7000.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Collagen,Birth to 6 months,1500.0,1500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Copper,14–18 years,890,890,1000,1300,mcg,ODS Copper Factsheet,https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/,,
+Copper,19+ years,900,900,1000,1300,mcg,ODS Copper Factsheet,https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/,,
+Copper,1–3 years,340,340,,,mcg,ODS Copper Factsheet,https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/,,
+Copper,4–8 years,440,440,,,mcg,ODS Copper Factsheet,https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/,,
+Copper,7–12 months,220,220,,,mcg,ODS Copper Factsheet,https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/,*AI,
+Copper,9–13 years,700,700,,,mcg,ODS Copper Factsheet,https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/,,
+Copper,Birth to 6 months,200,200,,,mcg,ODS Copper Factsheet,https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/,*AI,
+Curcumin,14–18 years,425.0,425.0,467.5,510.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Curcumin,19+ years,500,500,500,500,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Anti-inflammatory studies,
+Curcumin,19–30 years,500.0,500.0,550.0,600.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Curcumin,1–3 years,175.0,175.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Curcumin,31–50 years,500.0,500.0,550.0,600.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Curcumin,4–8 years,250.0,250.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Curcumin,51–70 years,450.0,450.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Curcumin,70+ years,425.0,425.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Curcumin,7–12 months,125.0,125.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Curcumin,9–13 years,350.0,350.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Curcumin,Birth to 6 months,75.0,75.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Cysteine,19+ years,CS,CS,CS,CS,mg,Conditionally essential,,,Can be synthesized by the body. requirements increase during stress/illness
+Dietary Fiber,14–18 years,38,26,28,29,g,DRI for Fiber,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Dietary Fiber,19–50 years,38,25,28,29,g,DRI for Fiber,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Dietary Fiber,1–3 years,19,19,,,g,DRI for Fiber,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Dietary Fiber,4–8 years,25,25,,,g,DRI for Fiber,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Dietary Fiber,51+ years,30,21,,,g,DRI for Fiber,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Dietary Fiber,7–12 months,ND,ND,,,g,DRI for Fiber,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,Not determined for infants,
+Dietary Fiber,9–13 years,31,26,,,g,DRI for Fiber,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Dietary Fiber,Birth to 6 months,ND,ND,,,g,DRI for Fiber,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,Not determined for infants,
+EGCG,14–18 years,255.0,255.0,280.5,306.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+EGCG,19+ years,300,300,300,300,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Green tea studies,
+EGCG,19–30 years,300.0,300.0,330.0,360.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+EGCG,1–3 years,105.0,105.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+EGCG,31–50 years,300.0,300.0,330.0,360.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+EGCG,4–8 years,150.0,150.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+EGCG,51–70 years,270.0,270.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+EGCG,70+ years,255.0,255.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+EGCG,7–12 months,75.0,75.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+EGCG,9–13 years,210.0,210.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+EGCG,Birth to 6 months,45.0,45.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Flavonoids,14–18 years,425.0,425.0,467.5,510.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Flavonoids,19+ years,500,500,500,500,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Total flavonoid intake,
+Flavonoids,19–30 years,500.0,500.0,550.0,600.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Flavonoids,1–3 years,175.0,175.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Flavonoids,31–50 years,500.0,500.0,550.0,600.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Flavonoids,4–8 years,250.0,250.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Flavonoids,51–70 years,450.0,450.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Flavonoids,70+ years,425.0,425.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Flavonoids,7–12 months,125.0,125.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Flavonoids,9–13 years,350.0,350.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Flavonoids,Birth to 6 months,75.0,75.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Fluoride,14–18 years,3,3,3,3,mg,ODS Fluoride Factsheet,https://ods.od.nih.gov/factsheets/Fluoride-HealthProfessional/,*AI,Primarily for dental health. excess can cause fluorosis
+Fluoride,19+ years,4,3,3,3,mg,ODS Fluoride Factsheet,https://ods.od.nih.gov/factsheets/Fluoride-HealthProfessional/,*AI,Primarily for dental health. excess can cause fluorosis
+Fluoride,1–3 years,0.7,0.7,,,mg,ODS Fluoride Factsheet,https://ods.od.nih.gov/factsheets/Fluoride-HealthProfessional/,*AI,Primarily for dental health. excess can cause fluorosis
+Fluoride,4–8 years,1,1,,,mg,ODS Fluoride Factsheet,https://ods.od.nih.gov/factsheets/Fluoride-HealthProfessional/,*AI,Primarily for dental health. excess can cause fluorosis
+Fluoride,7–12 months,0.5,0.5,,,mg,ODS Fluoride Factsheet,https://ods.od.nih.gov/factsheets/Fluoride-HealthProfessional/,*AI,Primarily for dental health. excess can cause fluorosis
+Fluoride,9–13 years,2,2,,,mg,ODS Fluoride Factsheet,https://ods.od.nih.gov/factsheets/Fluoride-HealthProfessional/,*AI,Primarily for dental health. excess can cause fluorosis
+Fluoride,Birth to 6 months,0.01,0.01,,,mg,ODS Fluoride Factsheet,https://ods.od.nih.gov/factsheets/Fluoride-HealthProfessional/,*AI,Primarily for dental health. excess can cause fluorosis
+Folate,14–18 years,400,400,600,500,mcg DFE,ODS Folate Factsheet,https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/,,
+Folate,19+ years,400,400,600,500,mcg DFE,ODS Folate Factsheet,https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/,,
+Folate,1–3 years,150,150,,,mcg DFE,ODS Folate Factsheet,https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/,,
+Folate,4–8 years,200,200,,,mcg DFE,ODS Folate Factsheet,https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/,,
+Folate,7–12 months,80,80,,,mcg DFE,ODS Folate Factsheet,https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/,*AI,
+Folate,9–13 years,300,300,,,mcg DFE,ODS Folate Factsheet,https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/,,
+Folate,Birth to 6 months,65,65,,,mcg DFE,ODS Folate Factsheet,https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/,*AI,
+Glucosamine,14–18 years,1275.0,1275.0,1402.5,1530.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Glucosamine,19+ years,1500,1500,1500,1500,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Joint health studies,
+Glucosamine,19–30 years,1500.0,1500.0,1650.0,1800.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Glucosamine,1–3 years,525.0,525.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Glucosamine,31–50 years,1500.0,1500.0,1650.0,1800.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Glucosamine,4–8 years,750.0,750.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Glucosamine,51–70 years,1350.0,1350.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Glucosamine,70+ years,1275.0,1275.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Glucosamine,7–12 months,375.0,375.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Glucosamine,9–13 years,1050.0,1050.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Glucosamine,Birth to 6 months,225.0,225.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Glutamic Acid,19+ years,CS,CS,CS,CS,mg,Conditionally essential,,,Can be synthesized by the body. requirements increase during stress/illness
+Glutamine,19+ years,CS,CS,CS,CS,mg,Conditionally essential,,,Can be synthesized by the body. requirements increase during stress/illness
+Glycine,19+ years,CS,CS,CS,CS,mg,Conditionally essential,,,Can be synthesized by the body. requirements increase during stress/illness
+Histidine,14–18 years,630,540,594.0,648.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Histidine,19–50 years,700,570,627.0,684.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Histidine,1–3 years,120,120,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Histidine,4–8 years,200,200,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Histidine,51+ years,700,570,627.0,684.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Histidine,7–12 months,90,90,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Histidine,9–13 years,400,400,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Histidine,Birth to 6 months,60,60,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Inositol,14–18 years,425.0,425.0,467.5,510.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inositol,19+ years,500,500,500,500,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Cell membrane function,
+Inositol,19–30 years,500.0,500.0,550.0,600.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inositol,1–3 years,175.0,175.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inositol,31–50 years,500.0,500.0,550.0,600.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inositol,4–8 years,250.0,250.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inositol,51–70 years,450.0,450.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inositol,70+ years,425.0,425.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inositol,7–12 months,125.0,125.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inositol,9–13 years,350.0,350.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inositol,Birth to 6 months,75.0,75.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inulin,14–18 years,4250.0,4250.0,4675.0,5100.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inulin,19+ years,5000,5000,5000,5000,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Prebiotic fiber,
+Inulin,19–30 years,5000.0,5000.0,5500.0,6000.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inulin,1–3 years,1750.0,1750.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inulin,31–50 years,5000.0,5000.0,5500.0,6000.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inulin,4–8 years,2500.0,2500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inulin,51–70 years,4500.0,4500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inulin,70+ years,4250.0,4250.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inulin,7–12 months,1250.0,1250.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inulin,9–13 years,3500.0,3500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Inulin,Birth to 6 months,750.0,750.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Iodine,14–18 years,150,150,220,290,mcg,ODS Iodine Factsheet,https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/,,
+Iodine,19+ years,150,150,220,290,mcg,ODS Iodine Factsheet,https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/,,
+Iodine,1–3 years,90,90,,,mcg,ODS Iodine Factsheet,https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/,,
+Iodine,4–8 years,90,90,,,mcg,ODS Iodine Factsheet,https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/,,
+Iodine,7–12 months,130,130,,,mcg,ODS Iodine Factsheet,https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/,*AI,
+Iodine,9–13 years,120,120,,,mcg,ODS Iodine Factsheet,https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/,,
+Iodine,Birth to 6 months,110,110,,,mcg,ODS Iodine Factsheet,https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/,*AI,
+Iron,14–18 years,11,15,27,10,mg,ODS Iron Factsheet,https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/,,"Absorption enhanced by vitamin C and hindered by calcium, tea, and coffee"
+Iron,19–50 years,8,18,27,9,mg,ODS Iron Factsheet,https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/,,"Absorption enhanced by vitamin C and hindered by calcium, tea, and coffee"
+Iron,1–3 years,7,7,,,mg,ODS Iron Factsheet,https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/,,"Absorption enhanced by vitamin C and hindered by calcium, tea, and coffee"
+Iron,4–8 years,10,10,,,mg,ODS Iron Factsheet,https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/,,"Absorption enhanced by vitamin C and hindered by calcium, tea, and coffee"
+Iron,51+ years,8,8,,,mg,ODS Iron Factsheet,https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/,,"Absorption enhanced by vitamin C and hindered by calcium, tea, and coffee"
+Iron,7–12 months,11,11,,,mg,ODS Iron Factsheet,https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/,,"Absorption enhanced by vitamin C and hindered by calcium, tea, and coffee"
+Iron,9–13 years,8,8,,,mg,ODS Iron Factsheet,https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/,,"Absorption enhanced by vitamin C and hindered by calcium, tea, and coffee"
+Iron,Birth to 6 months,0.27,0.27,,,mg,ODS Iron Factsheet,https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/,*AI,"Absorption enhanced by vitamin C and hindered by calcium, tea, and coffee"
+Isoflavones,14–18 years,21.2,21.2,23.4,25.5,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Isoflavones,19+ years,25,25,25,25,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Soy intake studies,
+Isoflavones,19–30 years,25.0,25.0,27.5,30.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Isoflavones,1–3 years,8.8,8.8,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Isoflavones,31–50 years,25.0,25.0,27.5,30.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Isoflavones,4–8 years,12.5,12.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Isoflavones,51–70 years,22.5,22.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Isoflavones,70+ years,21.2,21.2,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Isoflavones,7–12 months,6.2,6.2,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Isoflavones,9–13 years,17.5,17.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Isoflavones,Birth to 6 months,3.8,3.8,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Isoleucine,14–18 years,1260,1080,1188.0,1296.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Isoleucine,19–50 years,1400,1140,1254.0,1368.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Isoleucine,1–3 years,240,240,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Isoleucine,4–8 years,400,400,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Isoleucine,51+ years,1400,1140,1254.0,1368.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Isoleucine,7–12 months,180,180,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Isoleucine,9–13 years,800,800,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Isoleucine,Birth to 6 months,120,120,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Lactobacillus acidophilus,14–18 years,850.0×10^6,850.0×10^6,935.0×10^6,1.0×10^9,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Lactobacillus acidophilus,19+ years,1×10^9,1×10^9,1×10^9,1×10^9,CFU,Research-based,Multiple peer-reviewed studies and clinical trials,Daily probiotic intake,
+Lactobacillus acidophilus,19–30 years,1.0×10^9,1.0×10^9,1.1×10^9,1.2×10^9,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Lactobacillus acidophilus,1–3 years,350.0×10^6,350.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Lactobacillus acidophilus,31–50 years,1.0×10^9,1.0×10^9,1.1×10^9,1.2×10^9,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Lactobacillus acidophilus,4–8 years,500.0×10^6,500.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Lactobacillus acidophilus,51–70 years,900.0×10^6,900.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Lactobacillus acidophilus,70+ years,850.0×10^6,850.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Lactobacillus acidophilus,7–12 months,250.0×10^6,250.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Lactobacillus acidophilus,9–13 years,700.0×10^6,700.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Lactobacillus acidophilus,Birth to 6 months,150.0×10^6,150.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Leucine,14–18 years,2457,2106,2316.6000000000004,2527.2,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Leucine,19–50 years,2730,2223,2445.3,2667.6,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Leucine,1–3 years,468,468,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Leucine,4–8 years,780,780,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Leucine,51+ years,2730,2223,2445.3,2667.6,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Leucine,7–12 months,351,351,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Leucine,9–13 years,1560,1560,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Leucine,Birth to 6 months,234,234,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Lutein,14–18 years,5.1,5.1,5.6,6.1,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lutein,19+ years,6,6,6,6,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Eye health studies,
+Lutein,19–30 years,6.0,6.0,6.6,7.2,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lutein,1–3 years,2.1,2.1,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lutein,31–50 years,6.0,6.0,6.6,7.2,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lutein,4–8 years,3.0,3.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lutein,51–70 years,5.4,5.4,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lutein,70+ years,5.1,5.1,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lutein,7–12 months,1.5,1.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lutein,9–13 years,4.2,4.2,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lutein,Birth to 6 months,0.9,0.9,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lycopene,14–18 years,8.5,8.5,9.4,10.2,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lycopene,19+ years,10,10,10,10,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Cardiovascular and prostate health,
+Lycopene,19–30 years,10.0,10.0,11.0,12.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lycopene,1–3 years,3.5,3.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lycopene,31–50 years,10.0,10.0,11.0,12.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lycopene,4–8 years,5.0,5.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lycopene,51–70 years,9.0,9.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lycopene,70+ years,8.5,8.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lycopene,7–12 months,2.5,2.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lycopene,9–13 years,7.0,7.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lycopene,Birth to 6 months,1.5,1.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Lysine,14–18 years,1890,1620,1782.0000000000002,1944.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Lysine,19–50 years,2100,1710,1881.0000000000002,2052.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Lysine,1–3 years,360,360,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Lysine,4–8 years,600,600,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Lysine,51+ years,2100,1710,1881.0000000000002,2052.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Lysine,7–12 months,270,270,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Lysine,9–13 years,1200,1200,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Lysine,Birth to 6 months,180,180,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+MCTs,14–18 years,12750.0,12750.0,14025.0,15300.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+MCTs,19+ years,15000,15000,15000,15000,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Medium-chain triglycerides,
+MCTs,19–30 years,15000.0,15000.0,16500.0,18000.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+MCTs,1–3 years,5250.0,5250.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+MCTs,31–50 years,15000.0,15000.0,16500.0,18000.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+MCTs,4–8 years,7500.0,7500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+MCTs,51–70 years,13500.0,13500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+MCTs,70+ years,12750.0,12750.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+MCTs,7–12 months,3750.0,3750.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+MCTs,9–13 years,10500.0,10500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+MCTs,Birth to 6 months,2250.0,2250.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Magnesium,14–18 years,410,360,400,360,mg,ODS Magnesium Factsheet,https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/,,
+Magnesium,19–30 years,400,310,350,310,mg,ODS Magnesium Factsheet,https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/,,
+Magnesium,1–3 years,80,80,,,mg,ODS Magnesium Factsheet,https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/,,
+Magnesium,31–50 years,420,320,360,320,mg,ODS Magnesium Factsheet,https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/,,
+Magnesium,4–8 years,130,130,,,mg,ODS Magnesium Factsheet,https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/,,
+Magnesium,51+ years,420,320,,,mg,ODS Magnesium Factsheet,https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/,,
+Magnesium,7–12 months,75,75,,,mg,ODS Magnesium Factsheet,https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/,*AI,
+Magnesium,9–13 years,240,240,,,mg,ODS Magnesium Factsheet,https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/,,
+Magnesium,Birth to 6 months,30,30,,,mg,ODS Magnesium Factsheet,https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/,*AI,
+Manganese,14–18 years,2.2,1.6,2.0,2.6,mg,ODS Manganese Factsheet,https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/,*AI,
+Manganese,19–50 years,2.3,1.8,2.0,2.6,mg,ODS Manganese Factsheet,https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/,*AI,
+Manganese,1–3 years,1.2,1.2,,,mg,ODS Manganese Factsheet,https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/,*AI,
+Manganese,4–8 years,1.5,1.5,,,mg,ODS Manganese Factsheet,https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/,*AI,
+Manganese,51+ years,2.3,1.8,,,mg,ODS Manganese Factsheet,https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/,*AI,
+Manganese,7–12 months,0.6,0.6,,,mg,ODS Manganese Factsheet,https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/,*AI,
+Manganese,9–13 years,1.9,1.6,,,mg,ODS Manganese Factsheet,https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/,*AI,
+Manganese,Birth to 6 months,0.003,0.003,,,mg,ODS Manganese Factsheet,https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/,*AI,
+Methionine,14–18 years,945,810,891.0000000000001,972.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Methionine,19–50 years,1050,855,940.5000000000001,1026.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Methionine,1–3 years,180,180,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Methionine,4–8 years,300,300,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Methionine,51+ years,1050,855,940.5000000000001,1026.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Methionine,7–12 months,135,135,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Methionine,9–13 years,600,600,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Methionine,Birth to 6 months,90,90,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Molybdenum,14–18 years,43,43,50,50,mcg,ODS Molybdenum Factsheet,https://ods.od.nih.gov/factsheets/Molybdenum-HealthProfessional/,,
+Molybdenum,19+ years,45,45,50,50,mcg,ODS Molybdenum Factsheet,https://ods.od.nih.gov/factsheets/Molybdenum-HealthProfessional/,,
+Molybdenum,1–3 years,17,17,,,mcg,ODS Molybdenum Factsheet,https://ods.od.nih.gov/factsheets/Molybdenum-HealthProfessional/,,
+Molybdenum,4–8 years,22,22,,,mcg,ODS Molybdenum Factsheet,https://ods.od.nih.gov/factsheets/Molybdenum-HealthProfessional/,,
+Molybdenum,7–12 months,3,3,,,mcg,ODS Molybdenum Factsheet,https://ods.od.nih.gov/factsheets/Molybdenum-HealthProfessional/,*AI,
+Molybdenum,9–13 years,34,34,,,mcg,ODS Molybdenum Factsheet,https://ods.od.nih.gov/factsheets/Molybdenum-HealthProfessional/,,
+Molybdenum,Birth to 6 months,2,2,,,mcg,ODS Molybdenum Factsheet,https://ods.od.nih.gov/factsheets/Molybdenum-HealthProfessional/,*AI,
+Niacin,14–18 years,16,14,18,17,mg NE,ODS Niacin Factsheet,https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/,,
+Niacin,19+ years,16,14,18,17,mg NE,ODS Niacin Factsheet,https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/,,
+Niacin,1–3 years,6,6,,,mg NE,ODS Niacin Factsheet,https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/,,
+Niacin,4–8 years,8,8,,,mg NE,ODS Niacin Factsheet,https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/,,
+Niacin,7–12 months,4,4,,,mg NE,ODS Niacin Factsheet,https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/,*AI,
+Niacin,9–13 years,12,12,,,mg NE,ODS Niacin Factsheet,https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/,,
+Niacin,Birth to 6 months,2,2,,,mg,ODS Niacin Factsheet,https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/,*AI,
+Nickel,19+ years,100,100,100,100,mcg,Research estimate,,Estimated safe intake,
+Omega-3 Fatty Acids (ALA),14–18 years,1.6,1.1,1.4,1.3,g,ODS Omega-3 Factsheet,https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/,*AI,". ALA primarily from plant sources like flax, chia, and walnuts"
+Omega-3 Fatty Acids (ALA),19–50 years,1.6,1.1,1.4,1.3,g,ODS Omega-3 Factsheet,https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/,*AI,". ALA primarily from plant sources like flax, chia, and walnuts"
+Omega-3 Fatty Acids (ALA),1–3 years,0.7,0.7,,,g,ODS Omega-3 Factsheet,https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/,*AI,". ALA primarily from plant sources like flax, chia, and walnuts"
+Omega-3 Fatty Acids (ALA),4–8 years,0.9,0.9,,,g,ODS Omega-3 Factsheet,https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/,*AI,". ALA primarily from plant sources like flax, chia, and walnuts"
+Omega-3 Fatty Acids (ALA),51+ years,1.6,1.1,,,g,ODS Omega-3 Factsheet,https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/,*AI,". ALA primarily from plant sources like flax, chia, and walnuts"
+Omega-3 Fatty Acids (ALA),7–12 months,0.5,0.5,,,g,ODS Omega-3 Factsheet,https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/,*AI,". ALA primarily from plant sources like flax, chia, and walnuts"
+Omega-3 Fatty Acids (ALA),9–13 years,1.2,1.0,,,g,ODS Omega-3 Factsheet,https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/,*AI,". ALA primarily from plant sources like flax, chia, and walnuts"
+Omega-3 Fatty Acids (ALA),Birth to 6 months,0.5,0.5,,,g,ODS Omega-3 Factsheet,https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/,*AI,". ALA primarily from plant sources like flax, chia, and walnuts"
+"Omega-3 Fatty Acids (Combined ALA, EPA, DHA)",1-3 years,3125.7,2446.20,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Calculated from optimal diet analysis - mg,
+"Omega-3 Fatty Acids (Combined ALA, EPA, DHA)",14-18 years,6876.54,5381.64,8072.46,8610.62,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Calculated from optimal diet analysis - mg,
+"Omega-3 Fatty Acids (Combined ALA, EPA, DHA)",19-30 years,6251.4,4892.40,7338.6,7827.84,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Calculated from optimal diet analysis - mg,
+"Omega-3 Fatty Acids (Combined ALA, EPA, DHA)",31-50 years,6251.4,4892.40,7338.6,7827.84,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Calculated from optimal diet analysis - mg,
+"Omega-3 Fatty Acids (Combined ALA, EPA, DHA)",4-8 years,4688.55,3669.30,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Calculated from optimal diet analysis - mg,
+"Omega-3 Fatty Acids (Combined ALA, EPA, DHA)",51-70 years,5626.26,4403.16,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Calculated from optimal diet analysis - mg,
+"Omega-3 Fatty Acids (Combined ALA, EPA, DHA)",7-12 months,2187.99,1712.34,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Calculated from optimal diet analysis - mg,
+"Omega-3 Fatty Acids (Combined ALA, EPA, DHA)",70+ years,5313.69,4158.54,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Calculated from optimal diet analysis - mg,
+"Omega-3 Fatty Acids (Combined ALA, EPA, DHA)",9-13 years,5626.26,4403.16,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Calculated from optimal diet analysis - mg,
+"Omega-3 Fatty Acids (Combined ALA, EPA, DHA)",Birth to 6 months,1562.85,1223.10,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Calculated from optimal diet analysis - mg,
+Omega-3 Fatty Acids (EPA+DHA),14–18 years,250,250,300,300,mg,Research-based,Multiple peer-reviewed studies and clinical trials,WHO recommendation,. EPA and DHA primarily from fish and algae sources
+Omega-3 Fatty Acids (EPA+DHA),19+ years,250,250,300,300,mg,Research-based,Multiple peer-reviewed studies and clinical trials,WHO recommendation,. EPA and DHA primarily from fish and algae sources
+Omega-3 Fatty Acids (EPA+DHA),1–3 years,100,100,,,mg,Research-based,Multiple peer-reviewed studies and clinical trials,WHO recommendation,. EPA and DHA primarily from fish and algae sources
+Omega-3 Fatty Acids (EPA+DHA),4–8 years,150,150,,,mg,Research-based,Multiple peer-reviewed studies and clinical trials,WHO recommendation,. EPA and DHA primarily from fish and algae sources
+Omega-3 Fatty Acids (EPA+DHA),7–12 months,70,70,,,mg,Research-based,Multiple peer-reviewed studies and clinical trials,From complementary foods,. EPA and DHA primarily from fish and algae sources
+Omega-3 Fatty Acids (EPA+DHA),9–13 years,200,200,,,mg,Research-based,Multiple peer-reviewed studies and clinical trials,WHO recommendation,. EPA and DHA primarily from fish and algae sources
+Omega-3 Fatty Acids (EPA+DHA),Birth to 6 months,50,50,,,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Adequate intake from breast milk,. EPA and DHA primarily from fish and algae sources
+Omega-6 Fatty Acids (LA),14–18 years,16,11,13,13,g,DRI for Fatty Acids,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Omega-6 Fatty Acids (LA),19–50 years,17,12,13,13,g,DRI for Fatty Acids,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Omega-6 Fatty Acids (LA),1–3 years,7,7,,,g,DRI for Fatty Acids,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Omega-6 Fatty Acids (LA),4–8 years,10,10,,,g,DRI for Fatty Acids,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Omega-6 Fatty Acids (LA),51+ years,14,11,,,g,DRI for Fatty Acids,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Omega-6 Fatty Acids (LA),7–12 months,4.6,4.6,,,g,DRI for Fatty Acids,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Omega-6 Fatty Acids (LA),9–13 years,12,10,,,g,DRI for Fatty Acids,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Omega-6 Fatty Acids (LA),Birth to 6 months,4.4,4.4,,,g,DRI for Fatty Acids,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+PABA,14–18 years,85.0,85.0,93.5,102.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+PABA,19+ years,100,100,100,100,mg,Research-based,Multiple peer-reviewed studies and clinical trials,B-vitamin complex member,
+PABA,19–30 years,100.0,100.0,110.0,120.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+PABA,1–3 years,35.0,35.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+PABA,31–50 years,100.0,100.0,110.0,120.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+PABA,4–8 years,50.0,50.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+PABA,51–70 years,90.0,90.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+PABA,70+ years,85.0,85.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+PABA,7–12 months,25.0,25.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+PABA,9–13 years,70.0,70.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+PABA,Birth to 6 months,15.0,15.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Pantothenic Acid,14–18 years,5,5,6,7,mg,ODS Pantothenic Acid Factsheet,https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/,*AI,
+Pantothenic Acid,19+ years,5,5,6,7,mg,ODS Pantothenic Acid Factsheet,https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/,*AI,
+Pantothenic Acid,1–3 years,2,2,,,mg,ODS Pantothenic Acid Factsheet,https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/,*AI,
+Pantothenic Acid,4–8 years,3,3,,,mg,ODS Pantothenic Acid Factsheet,https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/,*AI,
+Pantothenic Acid,7–12 months,1.8,1.8,,,mg,ODS Pantothenic Acid Factsheet,https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/,*AI,
+Pantothenic Acid,9–13 years,4,4,,,mg,ODS Pantothenic Acid Factsheet,https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/,*AI,
+Pantothenic Acid,Birth to 6 months,1.7,1.7,,,mg,ODS Pantothenic Acid Factsheet,https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/,*AI,
+Phenylalanine,14–18 years,1575,1350,1485.0000000000002,1620.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Phenylalanine,19–50 years,1750,1425,1567.5000000000002,1710.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Phenylalanine,1–3 years,300,300,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Phenylalanine,4–8 years,500,500,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Phenylalanine,51+ years,1750,1425,1567.5000000000002,1710.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Phenylalanine,7–12 months,225,225,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Phenylalanine,9–13 years,1000,1000,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Phenylalanine,Birth to 6 months,150,150,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Phosphorus,14–18 years,1250,1250,1250,1250,mg,ODS Phosphorus Factsheet,https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/,,
+Phosphorus,19+ years,700,700,700,700,mg,ODS Phosphorus Factsheet,https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/,,
+Phosphorus,1–3 years,460,460,,,mg,ODS Phosphorus Factsheet,https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/,,
+Phosphorus,4–8 years,500,500,,,mg,ODS Phosphorus Factsheet,https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/,,
+Phosphorus,7–12 months,275,275,,,mg,ODS Phosphorus Factsheet,https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/,*AI,
+Phosphorus,9–13 years,1250,1250,,,mg,ODS Phosphorus Factsheet,https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/,,
+Phosphorus,Birth to 6 months,100,100,,,mg,ODS Phosphorus Factsheet,https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/,*AI,
+Phytosterols,14–18 years,1700.0,1700.0,1870.0,2040.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Phytosterols,19+ years,2000,2000,2000,2000,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Cholesterol-lowering studies,
+Phytosterols,19–30 years,2000.0,2000.0,2200.0,2400.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Phytosterols,1–3 years,700.0,700.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Phytosterols,31–50 years,2000.0,2000.0,2200.0,2400.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Phytosterols,4–8 years,1000.0,1000.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Phytosterols,51–70 years,1800.0,1800.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Phytosterols,70+ years,1700.0,1700.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Phytosterols,7–12 months,500.0,500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Phytosterols,9–13 years,1400.0,1400.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Phytosterols,Birth to 6 months,300.0,300.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Polyphenols,14–18 years,850.0,850.0,935.0,1020.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Polyphenols,19+ years,1000,1000,1000,1000,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Optimal dietary intake,
+Polyphenols,19–30 years,1000.0,1000.0,1100.0,1200.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Polyphenols,1–3 years,350.0,350.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Polyphenols,31–50 years,1000.0,1000.0,1100.0,1200.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Polyphenols,4–8 years,500.0,500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Polyphenols,51–70 years,900.0,900.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Polyphenols,70+ years,850.0,850.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Polyphenols,7–12 months,250.0,250.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Polyphenols,9–13 years,700.0,700.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Polyphenols,Birth to 6 months,150.0,150.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Potassium,14–18 years,3000,2300,2600,2500,mg,ODS Potassium Factsheet,https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/,,
+Potassium,19–50 years,3400,2600,2900,2800,mg,ODS Potassium Factsheet,https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/,,
+Potassium,1–3 years,2000,2000,,,mg,ODS Potassium Factsheet,https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/,,
+Potassium,4–8 years,2300,2300,,,mg,ODS Potassium Factsheet,https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/,,
+Potassium,51+ years,3400,2600,,,mg,ODS Potassium Factsheet,https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/,,
+Potassium,7–12 months,860,860,,,mg,ODS Potassium Factsheet,https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/,*AI,
+Potassium,9–13 years,2500,2300,,,mg,ODS Potassium Factsheet,https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/,,
+Potassium,Birth to 6 months,400,400,,,mg,ODS Potassium Factsheet,https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/,*AI,
+Proline,19+ years,CS,CS,CS,CS,mg,Conditionally essential,,,Can be synthesized by the body. requirements increase during stress/illness
+Quercetin,14–18 years,170.0,170.0,187.0,204.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Quercetin,19+ years,200,200,200,200,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Antioxidant studies,
+Quercetin,19–30 years,200.0,200.0,220.0,240.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Quercetin,1–3 years,70.0,70.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Quercetin,31–50 years,200.0,200.0,220.0,240.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Quercetin,4–8 years,100.0,100.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Quercetin,51–70 years,180.0,180.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Quercetin,70+ years,170.0,170.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Quercetin,7–12 months,50.0,50.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Quercetin,9–13 years,140.0,140.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Quercetin,Birth to 6 months,30.0,30.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Resveratrol,14–18 years,10.2,10.2,11.2,12.2,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Resveratrol,19+ years,12,12,12,12,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Cardiovascular studies,
+Resveratrol,19–30 years,12.0,12.0,13.2,14.4,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Resveratrol,1–3 years,4.2,4.2,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Resveratrol,31–50 years,12.0,12.0,13.2,14.4,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Resveratrol,4–8 years,6.0,6.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Resveratrol,51–70 years,10.8,10.8,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Resveratrol,70+ years,10.2,10.2,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Resveratrol,7–12 months,3.0,3.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Resveratrol,9–13 years,8.4,8.4,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Resveratrol,Birth to 6 months,1.8,1.8,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Riboflavin,14–18 years,1.3,1.0,1.4,1.6,mg,ODS Riboflavin Factsheet,https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/,,
+Riboflavin,19–50 years,1.3,1.1,1.4,1.6,mg,ODS Riboflavin Factsheet,https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/,,
+Riboflavin,1–3 years,0.5,0.5,,,mg,ODS Riboflavin Factsheet,https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/,,
+Riboflavin,4–8 years,0.6,0.6,,,mg,ODS Riboflavin Factsheet,https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/,,
+Riboflavin,51+ years,1.3,1.1,,,mg,ODS Riboflavin Factsheet,https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/,,
+Riboflavin,7–12 months,0.4,0.4,,,mg,ODS Riboflavin Factsheet,https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/,*AI,
+Riboflavin,9–13 years,0.9,0.9,,,mg,ODS Riboflavin Factsheet,https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/,,
+Riboflavin,Birth to 6 months,0.3,0.3,,,mg,ODS Riboflavin Factsheet,https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/,*AI,
+Saccharomyces boulardii,14–18 years,4.2×10^9,4.2×10^9,4.7×10^9,5.1×10^9,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Saccharomyces boulardii,19+ years,5×10^9,5×10^9,5×10^9,5×10^9,CFU,Research-based,Multiple peer-reviewed studies and clinical trials,Therapeutic dose,
+Saccharomyces boulardii,19–30 years,5.0×10^9,5.0×10^9,5.5×10^9,6.0×10^9,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Saccharomyces boulardii,1–3 years,1.8×10^9,1.8×10^9,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Saccharomyces boulardii,31–50 years,5.0×10^9,5.0×10^9,5.5×10^9,6.0×10^9,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Saccharomyces boulardii,4–8 years,2.5×10^9,2.5×10^9,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Saccharomyces boulardii,51–70 years,4.5×10^9,4.5×10^9,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Saccharomyces boulardii,70+ years,4.2×10^9,4.2×10^9,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Saccharomyces boulardii,7–12 months,1.2×10^9,1.2×10^9,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Saccharomyces boulardii,9–13 years,3.5×10^9,3.5×10^9,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Saccharomyces boulardii,Birth to 6 months,750.0×10^6,750.0×10^6,,,CFU,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan. CFU values adjusted for age
+Saponins,14–18 years,42.5,42.5,46.8,51.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Saponins,19+ years,50,50,50,50,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Legume consumption,
+Saponins,19–30 years,50.0,50.0,55.0,60.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Saponins,1–3 years,17.5,17.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Saponins,31–50 years,50.0,50.0,55.0,60.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Saponins,4–8 years,25.0,25.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Saponins,51–70 years,45.0,45.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Saponins,70+ years,42.5,42.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Saponins,7–12 months,12.5,12.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Saponins,9–13 years,35.0,35.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Saponins,Birth to 6 months,7.5,7.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Selenium,14–18 years,55,55,60,70,mcg,ODS Selenium Factsheet,https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/,,
+Selenium,19–50 years,55,55,60,70,mcg,ODS Selenium Factsheet,https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/,,
+Selenium,1–3 years,20,20,,,mcg,ODS Selenium Factsheet,https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/,,
+Selenium,4–8 years,30,30,,,mcg,ODS Selenium Factsheet,https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/,,
+Selenium,51+ years,55,55,,,mcg,ODS Selenium Factsheet,https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/,,
+Selenium,7–12 months,20,20,,,mcg,ODS Selenium Factsheet,https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/,*AI,
+Selenium,9–13 years,40,40,,,mcg,ODS Selenium Factsheet,https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/,,
+Selenium,Birth to 6 months,15,15,,,mcg,ODS Selenium Factsheet,https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/,*AI,
+Serine,19+ years,CS,CS,CS,CS,mg,Conditionally essential,,,Can be synthesized by the body. requirements increase during stress/illness
+Silicon,19+ years,5,5,5,5,mg,Research estimate,,Estimated from dietary intake,
+Sodium,14–18 years,1500,1500,1500,1500,mg,ODS Sodium Factsheet,https://ods.od.nih.gov/factsheets/Sodium-HealthProfessional/,*AI,
+Sodium,19–50 years,1500,1500,1500,1500,mg,ODS Sodium Factsheet,https://ods.od.nih.gov/factsheets/Sodium-HealthProfessional/,*AI,
+Sodium,1–3 years,1000,1000,,,mg,ODS Sodium Factsheet,https://ods.od.nih.gov/factsheets/Sodium-HealthProfessional/,*AI,
+Sodium,4–8 years,1200,1200,,,mg,ODS Sodium Factsheet,https://ods.od.nih.gov/factsheets/Sodium-HealthProfessional/,*AI,
+Sodium,51–70 years,1300,1300,,,mg,ODS Sodium Factsheet,https://ods.od.nih.gov/factsheets/Sodium-HealthProfessional/,*AI,
+Sodium,70+ years,1200,1200,,,mg,ODS Sodium Factsheet,https://ods.od.nih.gov/factsheets/Sodium-HealthProfessional/,*AI,
+Sodium,7–12 months,370,370,,,mg,ODS Sodium Factsheet,https://ods.od.nih.gov/factsheets/Sodium-HealthProfessional/,*AI,
+Sodium,9–13 years,1500,1500,,,mg,ODS Sodium Factsheet,https://ods.od.nih.gov/factsheets/Sodium-HealthProfessional/,*AI,
+Sodium,Birth to 6 months,120,120,,,mg,ODS Sodium Factsheet,https://ods.od.nih.gov/factsheets/Sodium-HealthProfessional/,*AI,
+Spirulina,14–18 years,2550.0,2550.0,2805.0,3060.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Spirulina,19+ years,3000,3000,3000,3000,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Whole food supplement,
+Spirulina,19–30 years,3000.0,3000.0,3300.0,3600.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Spirulina,1–3 years,1050.0,1050.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Spirulina,31–50 years,3000.0,3000.0,3300.0,3600.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Spirulina,4–8 years,1500.0,1500.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Spirulina,51–70 years,2700.0,2700.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Spirulina,70+ years,2550.0,2550.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Spirulina,7–12 months,750.0,750.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Spirulina,9–13 years,2100.0,2100.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Spirulina,Birth to 6 months,450.0,450.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Sulfur,19+ years,850,850,850,850,mg,Research estimate,,From amino acids methionine and cysteine,
+Tannins,14–18 years,127.5,127.5,140.2,153.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Tannins,19+ years,150,150,150,150,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Tea and fruit intake,
+Tannins,19–30 years,150.0,150.0,165.0,180.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Tannins,1–3 years,52.5,52.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Tannins,31–50 years,150.0,150.0,165.0,180.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Tannins,4–8 years,75.0,75.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Tannins,51–70 years,135.0,135.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Tannins,70+ years,127.5,127.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Tannins,7–12 months,37.5,37.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Tannins,9–13 years,105.0,105.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Tannins,Birth to 6 months,22.5,22.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Thiamin,14–18 years,1.2,1.0,1.4,1.4,mg,ODS Thiamin Factsheet,https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/,,
+Thiamin,19–50 years,1.2,1.1,1.4,1.4,mg,ODS Thiamin Factsheet,https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/,,
+Thiamin,1–3 years,0.5,0.5,,,mg,ODS Thiamin Factsheet,https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/,,
+Thiamin,4–8 years,0.6,0.6,,,mg,ODS Thiamin Factsheet,https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/,,
+Thiamin,51+ years,1.2,1.1,,,mg,ODS Thiamin Factsheet,https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/,,
+Thiamin,7–12 months,0.3,0.3,,,mg,ODS Thiamin Factsheet,https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/,*AI,
+Thiamin,9–13 years,0.9,0.9,,,mg,ODS Thiamin Factsheet,https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/,,
+Thiamin,Birth to 6 months,0.2,0.2,,,mg,ODS Thiamin Factsheet,https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/,*AI,
+Threonine,14–18 years,945,810,891.0000000000001,972.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Threonine,19–50 years,1050,855,940.5000000000001,1026.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Threonine,1–3 years,180,180,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Threonine,4–8 years,300,300,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Threonine,51+ years,1050,855,940.5000000000001,1026.0,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Threonine,7–12 months,135,135,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Threonine,9–13 years,600,600,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Threonine,Birth to 6 months,90,90,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Total Protein,14–18 years,52,46,71,71,g,DRI for Protein,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,,
+Total Protein,19–30 years,56,46,71,71,g,DRI for Protein,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,,
+Total Protein,1–3 years,13,13,,,g,DRI for Protein,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,,
+Total Protein,31–50 years,56,46,71,71,g,DRI for Protein,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,,
+Total Protein,4–8 years,19,19,,,g,DRI for Protein,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,,
+Total Protein,51+ years,56,46,,,g,DRI for Protein,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,,
+Total Protein,7–12 months,11,11,,,g,DRI for Protein,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,,
+Total Protein,9–13 years,34,34,,,g,DRI for Protein,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,,
+Total Protein,Birth to 6 months,9.1,9.1,,,g,DRI for Protein,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI,
+Tryptophan,14–18 years,252,216,237.60000000000002,259.2,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Tryptophan,19–50 years,280,228,250.8,273.59999999999997,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Tryptophan,1–3 years,48,48,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Tryptophan,4–8 years,80,80,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Tryptophan,51+ years,280,228,250.8,273.59999999999997,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Tryptophan,7–12 months,36,36,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Tryptophan,9–13 years,160,160,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Tryptophan,Birth to 6 months,24,24,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Tyrosine,19+ years,CS,CS,CS,CS,mg,Conditionally essential,,,Can be synthesized by the body. requirements increase during stress/illness
+Valine,14–18 years,1638,1404,1544.4,1684.8,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Valine,19–50 years,1820,1482,1630.2,1778.3999999999999,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Valine,1–3 years,312,312,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Valine,4–8 years,520,520,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Valine,51+ years,1820,1482,1630.2,1778.3999999999999,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Valine,7–12 months,234,234,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Valine,9–13 years,1040,1040,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Valine,Birth to 6 months,156,156,,,mg/kg body weight,WHO/FAO amino acid requirements,https://www.who.int/publications/i/item/9789241209359,,
+Vanadium,19+ years,10,10,10,10,mcg,Research estimate,,Upper safe limit,
+Vitamin A,14–18 years,900,700,750,1200,mcg RAE,ODS Vitamin A Factsheet,https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/,,
+Vitamin A,19–50 years,900,700,770,1300,mcg RAE,ODS Vitamin A Factsheet,https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/,,
+Vitamin A,1–3 years,300,300,,,mcg RAE,ODS Vitamin A Factsheet,https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/,,
+Vitamin A,4–8 years,400,400,,,mcg RAE,ODS Vitamin A Factsheet,https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/,,
+Vitamin A,51+ years,900,700,,,mcg RAE,ODS Vitamin A Factsheet,https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/,,
+Vitamin A,7–12 months,500,500,,,mcg RAE,ODS Vitamin A Factsheet,https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/,*AI,
+Vitamin A,9–13 years,600,600,,,mcg RAE,ODS Vitamin A Factsheet,https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/,,
+Vitamin A,Birth to 6 months,400,400,,,mcg RAE,ODS Vitamin A Factsheet,https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/,*AI,
+Vitamin B12,14–18 years,2.4,2.4,2.6,2.8,mcg,ODS Vitamin B12 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/,,Adults over 50 should obtain most vitamin B12 from fortified foods or supplements due to reduced absorption of food-bound vitamin B12
+Vitamin B12,19+ years,2.4,2.4,2.6,2.8,mcg,ODS Vitamin B12 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/,,Adults over 50 should obtain most vitamin B12 from fortified foods or supplements due to reduced absorption of food-bound vitamin B12
+Vitamin B12,1–3 years,0.9,0.9,,,mcg,ODS Vitamin B12 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/,,Adults over 50 should obtain most vitamin B12 from fortified foods or supplements due to reduced absorption of food-bound vitamin B12
+Vitamin B12,4–8 years,1.2,1.2,,,mcg,ODS Vitamin B12 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/,,Adults over 50 should obtain most vitamin B12 from fortified foods or supplements due to reduced absorption of food-bound vitamin B12
+Vitamin B12,7–12 months,0.5,0.5,,,mcg,ODS Vitamin B12 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/,*AI,Adults over 50 should obtain most vitamin B12 from fortified foods or supplements due to reduced absorption of food-bound vitamin B12
+Vitamin B12,9–13 years,1.8,1.8,,,mcg,ODS Vitamin B12 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/,,Adults over 50 should obtain most vitamin B12 from fortified foods or supplements due to reduced absorption of food-bound vitamin B12
+Vitamin B12,Birth to 6 months,0.4,0.4,,,mcg,ODS Vitamin B12 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/,*AI,Adults over 50 should obtain most vitamin B12 from fortified foods or supplements due to reduced absorption of food-bound vitamin B12
+Vitamin B6,14–18 years,1.3,1.2,1.9,2.0,mg,ODS Vitamin B6 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/,,
+Vitamin B6,19–50 years,1.3,1.3,1.9,2.0,mg,ODS Vitamin B6 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/,,
+Vitamin B6,1–3 years,0.5,0.5,,,mg,ODS Vitamin B6 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/,,
+Vitamin B6,4–8 years,0.6,0.6,,,mg,ODS Vitamin B6 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/,,
+Vitamin B6,51+ years,1.7,1.5,,,mg,ODS Vitamin B6 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/,,
+Vitamin B6,7–12 months,0.3,0.3,,,mg,ODS Vitamin B6 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/,*AI,
+Vitamin B6,9–13 years,1.0,1.0,,,mg,ODS Vitamin B6 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/,,
+Vitamin B6,Birth to 6 months,0.1,0.1,,,mg,ODS Vitamin B6 Factsheet,https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/,*AI,
+Vitamin C,0–6 months,40,40,,,mg,ODS Vitamin C Factsheet,https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/,*AI,Smokers require 35 mg/day more vitamin C than nonsmokers
+Vitamin C,14–18 years,75,65,80,115,mg,ODS Vitamin C Factsheet,https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/,,Smokers require 35 mg/day more vitamin C than nonsmokers
+Vitamin C,19+ years,90,75,85,120,mg,ODS Vitamin C Factsheet,https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/,,Smokers require 35 mg/day more vitamin C than nonsmokers
+Vitamin C,1–3 years,15,15,,,mg,ODS Vitamin C Factsheet,https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/,,Smokers require 35 mg/day more vitamin C than nonsmokers
+Vitamin C,4–8 years,25,25,,,mg,ODS Vitamin C Factsheet,https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/,,Smokers require 35 mg/day more vitamin C than nonsmokers
+Vitamin C,7–12 months,50,50,,,mg,ODS Vitamin C Factsheet,https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/,*AI,Smokers require 35 mg/day more vitamin C than nonsmokers
+Vitamin C,9–13 years,45,45,,,mg,ODS Vitamin C Factsheet,https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/,,Smokers require 35 mg/day more vitamin C than nonsmokers
+Vitamin D,0–12 months,10,10,,,mcg (400 IU),ODS Vitamin D Factsheet,https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/,*AI,
+Vitamin D,14–18 years,15,15,15,15,mcg (600 IU),ODS Vitamin D Factsheet,https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/,,
+Vitamin D,19–50 years,15,15,15,15,mcg (600 IU),ODS Vitamin D Factsheet,https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/,,
+Vitamin D,1–13 years,15,15,,,mcg (600 IU),ODS Vitamin D Factsheet,https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/,,
+Vitamin D,51–70 years,15,15,,,mcg (600 IU),ODS Vitamin D Factsheet,https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/,,
+Vitamin D,70+ years,20,20,,,mcg (800 IU),ODS Vitamin D Factsheet,https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/,,
+Vitamin E,0–6 months,4,4,,,mg,ODS Vitamin E Factsheet,https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/,*AI,
+Vitamin E,14+ years,15,15,15,19,mg,ODS Vitamin E Factsheet,https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/,,
+Vitamin E,1–3 years,6,6,,,mg,ODS Vitamin E Factsheet,https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/,,
+Vitamin E,4–8 years,7,7,,,mg,ODS Vitamin E Factsheet,https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/,,
+Vitamin E,7–12 months,5,5,,,mg,ODS Vitamin E Factsheet,https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/,*AI,
+Vitamin E,9–13 years,11,11,,,mg,ODS Vitamin E Factsheet,https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/,,
+Vitamin K,14–18 years,75,75,75,75,mcg,ODS Vitamin K Factsheet,https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/,*AI,
+Vitamin K,19+ years,120,90,90,90,mcg,ODS Vitamin K Factsheet,https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/,*AI,
+Vitamin K,1–3 years,30,30,,,mcg,ODS Vitamin K Factsheet,https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/,*AI,
+Vitamin K,4–8 years,55,55,,,mcg,ODS Vitamin K Factsheet,https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/,*AI,
+Vitamin K,7–12 months,2.5,2.5,,,mcg,ODS Vitamin K Factsheet,https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/,*AI,
+Vitamin K,9–13 years,60,60,,,mcg,ODS Vitamin K Factsheet,https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/,*AI,
+Vitamin K,Birth to 6 months,2.0,2.0,,,mcg,ODS Vitamin K Factsheet,https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/,*AI,
+Water,14–18 years,3.3,2.3,3.0,3.8,L,DRI for Water,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI total fluids,
+Water,19–50 years,3.7,2.7,3.0,3.8,L,DRI for Water,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI total fluids,
+Water,1–3 years,1.3,1.3,,,L,DRI for Water,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI total fluids,
+Water,4–8 years,1.7,1.7,,,L,DRI for Water,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI total fluids,
+Water,51+ years,3.7,2.7,,,L,DRI for Water,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI total fluids,
+Water,7–12 months,0.8,0.8,,,L,DRI for Water,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI total fluids,
+Water,9–13 years,2.4,2.1,,,L,DRI for Water,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI total fluids,
+Water,Birth to 6 months,0.7,0.7,,,L,DRI for Water,https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids,*AI from breast milk,
+Zeaxanthin,14–18 years,1.7,1.7,1.9,2.0,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Zeaxanthin,19+ years,2,2,2,2,mg,Research-based,Multiple peer-reviewed studies and clinical trials,Eye health studies,
+Zeaxanthin,19–30 years,2.0,2.0,2.2,2.4,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Zeaxanthin,1–3 years,0.7,0.7,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Zeaxanthin,31–50 years,2.0,2.0,2.2,2.4,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Zeaxanthin,4–8 years,1.0,1.0,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Zeaxanthin,51–70 years,1.8,1.8,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Zeaxanthin,70+ years,1.7,1.7,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Zeaxanthin,7–12 months,0.5,0.5,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Zeaxanthin,9–13 years,1.4,1.4,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Zeaxanthin,Birth to 6 months,0.3,0.3,,,mg,Optimal Diet Analysis,Calculated from optimal diet pattern analysis,Scaled from adult values based on caloric needs and body weight,Calculated from optimal diet analysis across lifespan
+Zinc,14–18 years,11,9,12,13,mg,ODS Zinc Factsheet,https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/,,
+Zinc,19+ years,11,8,11,12,mg,ODS Zinc Factsheet,https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/,,
+Zinc,1–3 years,3,3,,,mg,ODS Zinc Factsheet,https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/,,
+Zinc,4–8 years,5,5,,,mg,ODS Zinc Factsheet,https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/,,
+Zinc,7–12 months,3,3,,,mg,ODS Zinc Factsheet,https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/,,
+Zinc,9–13 years,8,8,,,mg,ODS Zinc Factsheet,https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/,,
+Zinc,Birth to 6 months,2,2,,,mg,ODS Zinc Factsheet,https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/,*AI,

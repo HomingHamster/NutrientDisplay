@@ -1,0 +1,13 @@
+services:
+  postgis:
+    container_name: nutrient-postgres
+    image: postgres
+    restart: always
+    environment:
+      - POSTGRES_DB=nutrients
+      - POSTGRES_USER=nut
+      - POSTGRES_PASSWORD=rient
+    ports:
+      - "5436:5432"
+    volumes:
+      - ./data/postgres:/var/lib/postgresql/data
