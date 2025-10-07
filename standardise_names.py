@@ -67,16 +67,12 @@ for nutrient in f:
 
 
 # Initialize Ollama client with default settings
-client = OpenAI(api_key = "EMPTY", base_url = "http://localhost:8000/v1")
-
-
-  # vLLM OpenAI API endpoint
-  # vLLM/fastchat does not require a real key by default
+client = OpenAI(api_key = "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", base_url="https://api.anthropic.com/v1/")
 
 @retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
 def safe_generate(prompt: str) -> bool:
   response = client.chat.completions.create(
-    model="Qwen/Qwen3-8B-AWQ",  # Use your actual model name
+    model="claude-3-5-haiku-latest",
     messages=[
       {"role": "system", "content": """## Core System Prompt
 
@@ -162,7 +158,7 @@ This system ensures maximum accuracy in nutrient name matching while maintaining
     extra_body={"top_k": 20}
   )
   answer = response.choices[0].message.content.strip().lower()
-  return answer.startswith("yes")
+  return answer.startswith("yes") or answer.startswith("Yes") or answer.startswith("YES")
 
 
 def process_datasets(dict_datasets: Dict[str, List[Dict]]) -> List[Dict]:
@@ -191,7 +187,7 @@ def process_datasets(dict_datasets: Dict[str, List[Dict]]) -> List[Dict]:
   for name1, name2, ds1, ds2 in comparisons:
     prompt = (
       f"Are these two nutrient, protein or amino acid names referring to the same thing? "
-      f"Respond only with 'Yes' or 'No'.\n"
+      f"Respond only with 'Yes' or 'No'.\n\n"
       f"Name 1: {name1}\nName 2: {name2}"
     )
 
