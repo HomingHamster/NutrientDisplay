@@ -123,69 +123,40 @@ d = {
 }
 
 def parse_age_range(age_str):
-    r = r'[\\D]'
-    if age_str == "Birth to 6 months" or age_str == "0<6 months":
+    s = age_str.lower().strip()
+    if s.startswith("birth to") or s.startswith("0<6"):
         return 0, 6
-    age_str = age_str.lower()
-    if "months" in age_str:
-        parts = re.findall(r'\d+', age_str)
-        if len(parts) == 2:
-            return int(parts[0]), int(parts[1])
-        elif len(parts) == 1:
-            val = int(parts[0])
-            return val, val
-    elif "year" in age_str:
-        parts = re.findall(r'\d+', age_str)
-        if len(parts) == 2:
-            return int(parts[0])*12, int(parts[1])*12
-        elif len(parts) == 1:
-            if '+' in age_str:
-                return int(parts[0])*12, None
+    if "month" in s:
+        nums = re.findall(r'\d+', s)
+        if len(nums) == 2:
+            return int(nums[0]), int(nums[1])
+        elif len(nums) == 1:
+            v = int(nums[0])
+            return v, v
+    if "year" in s:
+        nums = re.findall(r'\d+', s)
+        if len(nums) == 2:
+            return int(nums[0])*12, int(nums[1])*12
+        elif len(nums) == 1:
+            if s.endswith("+"):
+                return int(nums[0])*12, None
             else:
-                year = int(parts[0])
-                return year*12, year*12
+                v = int(nums[0])*12
+                return v, v
     return None, None
-
-def load_complete(path):
-    data = []
-    with open(path, newline='') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            if row['male'] in ['ND', 'CS']:
-                continue
-            for gender in ['male', 'female', 'pregnant', 'lactating']:
-                amt = row.get(gender)
-                if not amt:
-                    continue
-                start, end = parse_age_range(row['age'])
-                nutrient = d.get(row['nutrient'])
-                if not nutrient:
-                    print(f"Skipping unknown nutrient {row['nutrient']} in complete.csv")
-                    continue
-                data.append({
-                    'nutrient': nutrient,
-                    'gender': gender.capitalize(),
-                    'age_start_months': start,
-                    'age_end_months': end,
-                    'amount': amt,
-                    'unit': row['footnotes'].split(' - ')[1] if 'footnotes' in row and ' - ' in row['footnotes'] else '',
-                    'source_type': 'RDA Extract',
-                    'source_name': 'Extract from ODS',
-                    'source_url': 'https://ods.od.nih.gov/',
-                    'notes': 'RDA calculated value'
-                })
-    return data
 
 def load_comprehensive(path):
     data = []
     with open(path, newline='') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            start, end = parse_age_range(row['Age_Group'])
+        rdr = csv.DictReader(f)
+        for row in rdr:
             nutrient = d.get(row['Nutrient'])
             if not nutrient:
                 print(f"Skipping unknown nutrient {row['Nutrient']} in comprehensive.csv")
                 continue
+            start, end = parse_age_range(row['Age_Group'])
+            source_url = row.get('Source_URL', '').strip()
+            notes = row.get('Nutrient_Notes', '').strip()
             data.append({
                 'nutrient': nutrient,
                 'gender': row['Gender'],
@@ -193,68 +164,126 @@ def load_comprehensive(path):
                 'age_end_months': end,
                 'amount': row['Amount'],
                 'unit': row['Unit'],
-                'source_type': row['Source_Type'],
-                'source_name': row['Source_Name'],
-                'source_url': row['Source_URL'],
-                'notes': row.get('Nutrient_Notes', '')
+                'source_type': row.get('Source_Type', 'Comprehensive'),
+                'source_name': row.get('Source_Name', 'Comprehensive Research'),
+                'source_url': source_url,
+                'notes': notes
             })
     return data
+
+def load_complete(path):
+    data = []
+    with open(path, newline='') as f:
+        rdr = csv.DictReader(f)
+        for row in rdr:
+            if row.get('male') in ['ND', 'CS']:
+                continue
+            for gender in ['male', 'female', 'pregnant', 'lactating']:
+                amt = row.get(gender)
+                if not amt:
+                    continue
+                nutrient = d.get(row['nutrient'])
+                if not nutrient:
+                    print(f"Skipping unknown nutrient {row['nutrient']} in complete.csv")
+                    continue
+                start, end = parse_age_range(row['age'])
+                footnotes = row.get('footnotes', '')
+                unit = ''
+                if ' - ' in footnotes:
+                    unit = footnotes.split(' - ')[1]
+                data.append({
+                    'nutrient': nutrient,
+                    'gender': gender.capitalize(),
+                    'age_start_months': start,
+                    'age_end_months': end,
+                    'amount': amt,
+                    'unit': unit,
+                    'source_type': 'Amateur AI calculation',
+                    'source_name': 'Cognisa Ltd',
+                    'source_url': '',
+                    'notes': 'Amateur calculation'
+                })
+    return data
+
 
 def load_enhanced(path):
     data = []
     with open(path, newline='') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
+        rdr = csv.DictReader(f)
+        for row in rdr:
             if row.get('Male') in ['ND', 'CS']:
                 continue
             for gender in ['Male', 'Female', 'Pregnant', 'Lactating']:
                 amt = row.get(gender)
                 if not amt:
                     continue
-                start, end = parse_age_range(row['Age_Group'])
                 nutrient = d.get(row['Nutrient'])
                 if not nutrient:
                     print(f"Skipping unknown nutrient {row['Nutrient']} in enhanced.csv")
                     continue
+                start, end = parse_age_range(row['Age_Group'])
+                url = row.get('Source_Links', '').strip()
+                if 'ods.od.nih.gov' in url:
+                    source_name = 'ODS NIH'
+                elif 'who.int' in url:
+                    source_name = 'WHO'
+                else:
+                    continue  # skip non-trusted enhanced sources
+                notes_base = f"{row.get('Footnotes','')} {row.get('Nutrient_Notes','')}".strip()
+                # Remove *AI only if a source URL is present (which it is here)
+                notes_base = notes_base.replace('*AI', '').strip()
                 data.append({
                     'nutrient': nutrient,
                     'gender': gender,
                     'age_start_months': start,
                     'age_end_months': end,
                     'amount': amt,
-                    'unit': row.get('Unit',''),
+                    'unit': row.get('Unit', ''),
                     'source_type': 'Enhanced',
-                    'source_name': row.get('Source_Links','') if row.get('Source_Links','').startswith("https:") else 'Amateur calculation by Cognisa Ltd, for research purposes only',
-                    'source_url': '',
-                    'notes': f"{row.get('Footnotes','')} {row.get('Nutrient_Notes','')}".strip()
+                    'source_name': source_name,
+                    'source_url': url,
+                    'notes': notes_base
                 })
     return data
 
-def merge_datasets(complete, comprehensive, enhanced):
-    # Prioritize complete, then comprehensive, then enhanced
+
+def merge_datasets(comprehensive, enhanced, complete):
     merged = OrderedDict()
     def key(rec):
         return (rec['nutrient'], rec['gender'], rec['age_start_months'], rec['age_end_months'])
-    for dataset in (complete, comprehensive, enhanced):
-        for rec in dataset:
-            k = key(rec)
-            if k not in merged:
-                merged[k] = rec
+
+    # Add comprehensive first
+    for rec in comprehensive:
+        merged[key(rec)] = rec
+
+    # Add enhanced if not present (with credible source)
+    for rec in enhanced:
+        k = key(rec)
+        if k not in merged:
+            merged[k] = rec
+
+    # Add complete last if not present
+    for rec in complete:
+        k = key(rec)
+        if k not in merged:
+            merged[k] = rec
+
     return list(merged.values())
 
-def write_csv(data, path='final_nutrients.csv'):
-    fields = ['nutrient','gender','age_start_months','age_end_months','amount','unit','source_type','source_name','source_url','notes']
+def write_output(records, path='final_nutrients.csv'):
+    fields = ['nutrient', 'gender', 'age_start_months', 'age_end_months', 'amount',
+              'unit', 'source_type', 'source_name', 'source_url', 'notes']
     with open(path, 'w', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=fields)
         writer.writeheader()
-        for row in data:
-            writer.writerow(row)
+        for rec in records:
+            writer.writerow(rec)
 
 if __name__ == '__main__':
-    complete_data = load_complete('complete.csv')
     comprehensive_data = load_comprehensive('comprehensive.csv')
     enhanced_data = load_enhanced('enhanced.csv')
+    complete_data = load_complete('complete.csv')
 
-    final_data = merge_datasets(complete_data, comprehensive_data, enhanced_data)
-    write_csv(final_data)
-    print(f"Finished writing {len(final_data)} normalized nutrient records to final_nutrients.csv")
+    final_data = merge_datasets(comprehensive_data, enhanced_data, complete_data)
+    write_output(final_data)
+    print(f'Wrote {len(final_data)} records to final_nutrients.csv')
