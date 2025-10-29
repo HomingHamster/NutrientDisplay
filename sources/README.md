@@ -134,6 +134,8 @@ When using this database in your research, please acknowledge:
 
 ### How to Cite This Database
 
+This project is public domain and does not require citation. However if you would like to cite this project, here are some examples:
+
 #### Harvard Style
 
 Farquharson, F. (2025, October 29). Age-Stratified Complete Nutrient Database (ASCND). Retrieved from osf.io/z73xm
