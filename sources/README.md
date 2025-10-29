@@ -121,33 +121,36 @@ This is an evolving research project. If you have:
 - **Fermentation or cultivation research** relevant to nutrient optimization
 - **Expertise in nutrition science** willing to validate findings
 
-Please consider contributing to improve this resource.
+Please consider contributing to improve this resource by submitting a pull request. You can find the project files at `https://github.com/HomingHamster/NutrientDisplay/tree/master/sources`
+# Citation
 
-## Citation
+## Acknowledgments
 
-If you use this database in your research, please acknowledge:
+When using this database in your research, please acknowledge:
+
 - The original RDA sources (USA Office of Dietary Supplements, etc.)
 - Specific research papers cited in the `source_url` field
 - The experimental and preliminary nature of AI-calculated values
 
-**If you want to cite** the database as a whole, please use the following:
+## How to Cite This Database
 
-```
+### Harvard Style
+
 Farquharson, F. (2025, October 29). Age-Stratified Complete Nutrient Database (ASCND). Retrieved from osf.io/z73xm
-```
 
-**BibTeX:**
+### BibTeX
 
-```
-@dataset{farquharson2025optimum,
-author = {Farquharson, F.},
-title = {Age-Stratified Complete Nutrient Database (ASCND)},
-year = {2025},
-version = {1.0},
-publisher = {Open Science Framework},
-url = {https://osf.io/z73xm}
+```bibtex
+@dataset{farquharson2025ascnd,
+  author = {Farquharson, F.},
+  title = {Age-Stratified Complete Nutrient Database (ASCND)},
+  year = {2025},
+  version = {1.0},
+  publisher = {Open Science Framework},
+  url = {https://osf.io/z73xm}
 }
 ```
+
 ## License and Disclaimer
 
 This data is provided for research and educational purposes. The creators make no warranties about the accuracy, completeness, or suitability of this information for any purpose. **This is not medical advice.** Always consult qualified healthcare professionals for nutritional guidance.
