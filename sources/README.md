@@ -122,9 +122,9 @@ This is an evolving research project. If you have:
 - **Expertise in nutrition science** willing to validate findings
 
 Please consider contributing to improve this resource by submitting a pull request. You can find the project files at `https://github.com/HomingHamster/NutrientDisplay/tree/master/sources`
-# Citation
+## Citation
 
-## Acknowledgments
+### Acknowledgments
 
 When using this database in your research, please acknowledge:
 
@@ -132,13 +132,13 @@ When using this database in your research, please acknowledge:
 - Specific research papers cited in the `source_url` field
 - The experimental and preliminary nature of AI-calculated values
 
-## How to Cite This Database
+### How to Cite This Database
 
-### Harvard Style
+#### Harvard Style
 
 Farquharson, F. (2025, October 29). Age-Stratified Complete Nutrient Database (ASCND). Retrieved from osf.io/z73xm
 
-### BibTeX
+#### BibTeX
 
 ```bibtex
 @dataset{farquharson2025ascnd,
