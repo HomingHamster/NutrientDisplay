@@ -28,9 +28,9 @@ This database attempts to fill these gaps by including:
 The nutrient values in this database come from a **three-tier approach**:
 
 ### 1. RDA Foundation (Primary Source)
-The base layer consists of official Recommended Dietary Allowances from UK health agencies and similar governmental nutrition authorities. These values are marked with `source_type: "RDA"` in the dataset.
+The base layer consists of official Recommended Dietary Allowances from USA health agencies and similar governmental nutrition authorities. These values are marked with `source_type: "RDA"` in the dataset.
 
-**Source**: UK Department of Health and other official government nutritional guidance documents
+**Source**: USA Office of Dietary Supplements
 
 ### 2. Research-Based Enhancement (Secondary Source)
 Where peer-reviewed research suggests optimal intake levels that differ from or extend beyond RDAs, those values have been incorporated. These are marked with `source_type: "Research-based"` or `source_type: "Enhanced"` and include citations to published studies.
